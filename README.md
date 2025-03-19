@@ -1,17 +1,11 @@
-### Hi there 👋
+### Hi! I am Haris 👋
 
-I am at a starting point so this shall remain empty for now. 
-<!--
-**NextStep-IM/NextStep-IM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Computer Science student studying at COMSATS Wah_
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little bit more about me :octocat:
+```python
+haris = {
+  "languages": ["Python", "C++"],
+  "interests": ["Artificial Intelligence", "Linux Customization", "Automation"],
+}
+```
