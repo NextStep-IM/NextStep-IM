@@ -1,6 +1,6 @@
 ### Hi! I am Haris 👋
 
-_Computer Science student studying at COMSATS Wah_
+_Computer Science student studying at COMSATS University_
 
 A little bit more about me :octocat:
 ```python
